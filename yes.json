@@ -1,0 +1,351 @@
+{
+	"trails": [
+		{
+			"_id": "my-navigate-your-career",
+			"org": "00D1I000001Wl7i",
+			"langLocale": "en.us",
+			"title": "Navigate your Career",
+			"description_html": "Learn what it takes to succeed at our company.",
+			"about_html": "Learn what it takes to succeed at our company.",
+			"icon_url": "https://developer.salesforce.com/media/NTO.png",
+			"color": "#007fb2",
+			"tags": [
+				{
+					"name": "crm",
+					"value": "CRM"
+				}
+			],
+			"roles": [
+				{
+					"name": "nto",
+					"value": "Pacifica Technology"
+				}
+			],
+			"level": "beginner",
+			"products": [
+				{
+					"name": "sales",
+					"value": "Sales Cloud"
+				}
+			],
+			"retired": false,
+			"modules": [
+				{
+					"_id": "my-prepare-for-bootcamp",
+					"color": "#",
+					"description_html": "Learn about HR and IT resources that help you succeed at our company.",
+					"about_html": "",
+					"title": "New Hire Orientation",
+					"langLocale": "en.us",
+					"org": "00D1I000001Wl7i",
+					"tags": [
+						{
+							"name": "general",
+							"value": "General"
+						}
+					],
+					"roles": [
+						{
+							"name": "nto",
+							"value": "Pacifica Technology"
+						}
+					],
+					"level": "beginner",
+					"products": [
+						{
+							"name": "general",
+							"value": "General"
+						}
+					],
+					"success_html": "Woo hoo! You've completed the Module!",
+					"icon_url": "https://developer.salesforce.com/resource/images/trailhead/badges/modules/trailhead_module_becoming_salesforce_new_hire_campground_exploration.png",
+					"retired": false,
+					"trail_ids": [
+						"trailhead.trail.my-navigate-your-career.en.us.192"
+					],
+					"badge_title": "New Hire Orientation",
+					"linkedin_url": "https://lnkd.in/dgmAw7y",
+					"isExternal": false,
+					"units": [
+						{
+							"_id": "my-explore-employee-success-resources",
+							"title": "Explore HR Resources",
+							"langLocale": "en.us",
+							"tags": [
+								{
+									"name": "crm",
+									"value": "CRM",
+									"points": 40
+								},
+								{
+									"name": "mobile",
+									"value": "Mobile",
+									"points": 10
+								},
+								{
+									"name": "lightning",
+									"value": "Lightning",
+									"points": 25
+								},
+								{
+									"name": "reports",
+									"value": "Reporting",
+									"points": 25
+								}
+							],
+							"roles": [
+								{
+									"name": "nto",
+									"value": "Pacifica Technology"
+								}
+							],
+							"level": "beginner",
+							"products": [
+								{
+									"name": "general",
+									"value": "General"
+								}
+							],
+							"retired": false,
+							"content_href": "new-hire-orientation/my-explore-employee-success-resources.html",
+							"challenge-time": 20
+						},
+						{
+							"_id": "my-get-started-with-technology",
+							"title": "Learn Where to Find IT Support",
+							"langLocale": "en.us",
+							"tags": [
+								{
+									"name": "crm",
+									"value": "CRM",
+									"points": 40
+								},
+								{
+									"name": "mobile",
+									"value": "Mobile",
+									"points": 10
+								},
+								{
+									"name": "lightning",
+									"value": "Lightning",
+									"points": 25
+								},
+								{
+									"name": "reports",
+									"value": "Reporting",
+									"points": 25
+								}
+							],
+							"roles": [
+								{
+									"name": "nto",
+									"value": "Pacifica Technology"
+								}
+							],
+							"level": "beginner",
+							"products": [
+								{
+									"name": "general",
+									"value": "General"
+								}
+							],
+							"retired": false,
+							"content_href": "new-hire-orientation/my-get-started-with-technology.html",
+							"challenge-time": 15
+						}
+					]
+				},
+				{
+					"_id": "my-learn-territory",
+					"color": "#",
+					"description_html": "Discover the benefits and process of territory and account planning..",
+					"about_html": "",
+					"title": "Learn About Your Territory",
+					"langLocale": "en.us",
+					"org": "00D1I000001Wl7i",
+					"tags": [
+						{
+							"name": "crm",
+							"value": "CRM"
+						}
+					],
+					"roles": [
+						{
+							"name": "nto",
+							"value": "Pacifica Technology"
+						}
+					],
+					"level": "intermediate",
+					"products": [
+						{
+							"name": "sales",
+							"value": "Sales Cloud"
+						}
+					],
+					"success_html": "Woo hoo! You've completed the Module!",
+					"icon_url": "https://developer.salesforce.com/resource/images/trailhead/badges/modules/trailhead_module_emea_territory_and_account_planning.png",
+					"retired": false,
+					"trail_ids": [
+						"trailhead.trail.my-navigate-your-career.en.us.192"
+					],
+					"badge_title": "Learn About Your Territory",
+					"linkedin_url": "https://lnkd.in/dgmAw7y",
+					"isExternal": false,
+					"units": [
+						{
+							"_id": "my-planning-and-collaboration",
+							"title": "Achieve More Through Planning and Collaboration",
+							"langLocale": "en.us",
+							"tags": [
+								{
+									"name": "general",
+									"value": "General",
+									"points": 100
+								}
+							],
+							"roles": [
+								{
+									"name": "nto",
+									"value": "Pacifica Technology"
+								}
+							],
+							"level": "intermediate",
+							"products": [
+								{
+									"name": "general",
+									"value": "General"
+								}
+							],
+							"retired": false,
+							"content_href": "learn-about-your-territory/my-planning-and-collaboration.html",
+							"challenge-time": 15
+						},
+						{
+							"_id": "my-learn-the-planning-process",
+							"title": "Learn the Planning Process",
+							"langLocale": "en.us",
+							"tags": [
+								{
+									"name": "general",
+									"value": "General",
+									"points": 100
+								}
+							],
+							"roles": [
+								{
+									"name": "nto",
+									"value": "Pacifica Technology"
+								}
+							],
+							"level": "intermediate",
+							"products": [
+								{
+									"name": "general",
+									"value": "General"
+								}
+							],
+							"retired": false,
+							"content_href": "learn-about-your-territory/my-learn-the-planning-process.html",
+							"challenge-time": 10
+						}
+					]
+				},
+				{
+					"_id": "my-career-goals",
+					"color": "#083A63",
+					"description_html": "Drive your career development with our tools and tips.",
+					"about_html": "",
+					"title": "Set Your Career Goals",
+					"langLocale": "en.us",
+					"org": "00D1I000001Wl7i",
+					"tags": [
+						{
+							"name": "general",
+							"value": "General"
+						}
+					],
+					"roles": [
+						{
+							"name": "nto",
+							"value": "Pacifica Technology"
+						}
+					],
+					"level": "beginner",
+					"products": [
+						{
+							"name": "general",
+							"value": "General"
+						}
+					],
+					"success_html": "Woo hoo! You've completed the Module!",
+					"icon_url": "https://developer.salesforce.com/resource/images/trailhead/badges/modules/trailhead_module_career_development_at_salesforce.png",
+					"retired": false,
+					"trail_ids": [
+						"trailhead.trail.my-navigate-your-career.en.us.192"
+					],
+					"badge_title": "Set Your Career Goals",
+					"isExternal": false,
+					"units": [
+						{
+							"_id": "my-explore-career-development",
+							"title": "Explore Career Development",
+							"langLocale": "en.us",
+							"tags": [
+								{
+									"name": "general",
+									"value": "General",
+									"points": 100
+								}
+							],
+							"roles": [
+								{
+									"name": "nto",
+									"value": "Pacifica Technology"
+								}
+							],
+							"level": "beginner",
+							"products": [
+								{
+									"name": "general",
+									"value": "General"
+								}
+							],
+							"retired": false,
+							"content_href": "set-your-career-goals/my-explore-career-development.html",
+							"challenge-time": 15
+						},
+						{
+							"_id": "my-develop-and-implement-your-plan",
+							"title": "Develop and Implement Your Plan",
+							"langLocale": "en.us",
+							"tags": [
+								{
+									"name": "general",
+									"value": "General",
+									"points": 100
+								}
+							],
+							"roles": [
+								{
+									"name": "nto",
+									"value": "Pacifica Technology"
+								}
+							],
+							"level": "beginner",
+							"products": [
+								{
+									"name": "general",
+									"value": "General"
+								}
+							],
+							"retired": false,
+							"content_href": "set-your-career-goals/my-develop-and-implement-your-plan.html",
+							"challenge-time": 15
+						}
+					]
+				}
+			]
+		}
+	],
+	"trailmakerVersion": "70794ba2ab4c09168217e221c0bbcb5f455b6c8c"
+}
